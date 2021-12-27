@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<eventdefinitions>
+ <eventclass id="6" name="User Events">
+
+  <event id="2" sformat="%4u1d type %4u1d source_line %1s0 file"/>
+  
+ </eventclass>
+</eventdefinitions>
